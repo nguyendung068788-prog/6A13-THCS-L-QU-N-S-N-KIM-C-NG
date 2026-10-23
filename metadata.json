@@ -1,0 +1,6 @@
+{
+  "name": "Thi Đua Lớp Học – Chinh Phục Kim Cương",
+  "description": "Ứng dụng quản lý thi đua học sinh THCS, vinh danh Top 10 trao thưởng kim cương, theo dõi học sinh tiến bộ và báo cáo chủ nhiệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
